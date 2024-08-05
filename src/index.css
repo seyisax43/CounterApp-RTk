@@ -1,0 +1,23 @@
+* {
+  margin: 5 auto;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color:hsl(240, 51%, 38%)
+  
+}
+
+body{
+  min-height: 100vh;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  
+
+  
+}
+
+input,
+button {
+  font: inherit;
+}
